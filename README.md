@@ -236,7 +236,7 @@ No activity tracked
 **如果觉得不错，请给个 Star⭐ 支持一下！**
 
 <p style="margin-top: 20px; font-size: 12px; color: #888;">
-  Made with ❤️ by <a href="https://github.com/XiaoChennnng">XiaoChennnng</a> | Last Updated: 2024
+  Made with ❤️ by <a href="https://github.com/XiaoChennnng">XiaoChennnng</a> | Last Updated: 2025
 </p>
 
 </div>

@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="45%" src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue&perline=3" />
+<img align="right" width="30%" src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue&perline=3" />
 
 ### 🎯 关于我
 

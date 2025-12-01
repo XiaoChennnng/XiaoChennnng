@@ -63,12 +63,11 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   12h 34m  ████████████░░░░░░░░░░░░░  48.2%
-Python       8h 22m   ████████░░░░░░░░░░░░░░░░░░  32.1%
-TypeScript   3h 15m   ███░░░░░░░░░░░░░░░░░░░░░░░  12.5%
-HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoChennnng&theme=tokyonight&layout=compact)](https://wakatime.com)

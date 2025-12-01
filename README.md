@@ -31,7 +31,7 @@
 
 <div align="center">
 
-**掌握的技术与工具**
+**正在学习的技术与工具**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,nextjs,nodejs,django,fastapi,spring,postgres,mongodb,redis,git,docker,kubernetes" alt="技术栈" style="margin: 20px 0;" />
 
@@ -56,7 +56,7 @@
 </div>
 
 
-## ⏰ 编码时间统计 (WakaTime)
+## ⏰ 编码时间统计
 
 <div align="center">
 

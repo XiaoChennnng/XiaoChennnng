@@ -93,24 +93,6 @@ HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░�
 
 </div>
 
-### 📌 核心开源项目
-
-- 🏆 [项目名称](https://github.com/XiaoChennnng/project) - 项目简介（⭐ Stars）
-- 🎨 [组件库](https://github.com/XiaoChennnng/component-lib) - 高性能UI组件库（⭐ Stars）
-- 🚀 [脚手架](https://github.com/XiaoChennnng/scaffold) - 快速项目初始化工具（⭐ Stars）
-
----
-
-## 📈 最近活动
-
-<!--
-你可以在此处添加最近的项目更新或成就
-例如：
-- 🎉 完成了xxx项目 v1.0 发布
-- 🔥 xxx开源库获得1000+ Stars
-- 📝 发布了关于"xxx"的技术文章
--->
-
 ---
 
 ## 🌐 联系方式与社交链接
@@ -118,20 +100,10 @@ HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░�
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/XiaoChennnng)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Blog](https://img.shields.io/badge/Blog-24292E?style=flat-square&logo=rss&logoColor=white)](https://your-blog.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chenhaomin@lzre.edu.cn)
+
 
 </div>
-
----
-
-## 💡 推荐资源
-
-- 📚 [我的技术博客](https://your-blog.com) - 分享开发经验和最佳实践
-- 📖 [我的文章合集](link) - 技术深度分析
-- 🎓 [开源学习资料](link) - 为初学者准备的教程
 
 ---
 

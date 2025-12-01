@@ -62,7 +62,7 @@
 
 ---
 
-## ⏰ 编码时间统计 (WakaTime)
+## ⏰ 编码时间统计
 
 <div align="center">
 
@@ -76,20 +76,6 @@ HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoChennnng&theme=tokyonight&layout=compact)](https://wakatime.com)
-
-</div>
-
----
-
-## 🎯 精选项目
-
-<div align="center">
-
-| 项目名称 | 描述 | 技术栈 | 链接 |
-|---------|------|--------|-----|
-| **项目1** | 一个现代化的Web应用，支持实时协作 | React + Node.js + WebSocket | [查看](https://github.com/XiaoChennnng/project1) |
-| **项目2** | 高性能数据处理系统 | Python + FastAPI + PostgreSQL | [查看](https://github.com/XiaoChennnng/project2) |
-| **项目3** | 云原生微服务架构 | Go + Kubernetes + Docker | [查看](https://github.com/XiaoChennnng/project3) |
 
 </div>
 

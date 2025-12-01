@@ -2,8 +2,8 @@ name: WakaTime Status Update
 
 on:
   schedule:
-    # 每天凌晨0点UTC更新 (北京时间 8:00)
-    - cron: '0 0 * * *'
+    # 每30分钟更新一次
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:

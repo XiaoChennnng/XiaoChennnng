@@ -2,8 +2,8 @@ name: WakaTime Status Update
 
 on:
   schedule:
-    # 每30分钟更新一次
-    - cron: '*/30 * * * *'
+    # 每小时的30分钟运行
+    - cron: '30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,3 +25,16 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_SHORT_INFO: true
           SHOW_UPDATED_DATE: false
+
+      - name: Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: 自动更新WakaTime编码时间统计"
+            git pull origin main --rebase
+            git push origin main
+          fi

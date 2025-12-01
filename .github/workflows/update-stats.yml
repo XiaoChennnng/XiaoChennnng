@@ -2,7 +2,7 @@ name: Update Stats
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,9 +30,14 @@ jobs:
         run: python scripts/update_stats.py
 
       - name: Push changes
-        uses: ad-m/github-push-action@master
-        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-        with:
-          github_token: ${{ github.token }}
-          branch: main
-          force: false
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: 自动更新GitHub成就和最新项目统计"
+            git pull origin main --rebase
+            git push origin main
+          fi

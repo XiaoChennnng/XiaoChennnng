@@ -1,16 +1,253 @@
-## Hi there 👋
+# 👋 欢迎来到我的GitHub
+
+> 💻 学生开发者 | 🚀 热爱开源 | 🎨 追求代码质量
+
+---
+
+## 🎯 关于我
+
+我是一名学生开发者，正在不断学习和探索新的技术。
+
+- 🔭 正在探索：云原生、微服务架构、大语言模型
+- 🌱 持续学习：新兴技术和最佳实践
+- 💬 乐于讨论：技术方案、架构设计
+- ⚡ 座右铭：代码即文档，简洁即美
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+### 编程语言
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 前端框架
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### 后端框架
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### 数据库
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 开发工具
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoChennnng&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/XiaoChennnng)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChennnng&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/XiaoChennnng)
+
+</div>
+
+---
+
+## ⏰ 编码时间统计 (WakaTime)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12h 34m  ████████████░░░░░░░░░░░░░  48.2%
+Python       8h 22m   ████████░░░░░░░░░░░░░░░░░░  32.1%
+TypeScript   3h 15m   ███░░░░░░░░░░░░░░░░░░░░░░░  12.5%
+HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░░░░░░░░   7.2%
+```
+<!--END_SECTION:waka-->
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoChennnng&theme=tokyonight&layout=compact)](https://wakatime.com)
+
+</div>
+
+---
+
+## 🎯 精选项目
+
+<div align="center">
+
+| 项目名称 | 描述 | 技术栈 | 链接 |
+|---------|------|--------|-----|
+| **项目1** | 一个现代化的Web应用，支持实时协作 | React + Node.js + WebSocket | [查看](https://github.com/XiaoChennnng/project1) |
+| **项目2** | 高性能数据处理系统 | Python + FastAPI + PostgreSQL | [查看](https://github.com/XiaoChennnng/project2) |
+| **项目3** | 云原生微服务架构 | Go + Kubernetes + Docker | [查看](https://github.com/XiaoChennnng/project3) |
+
+</div>
+
+### 📌 核心开源项目
+
+- 🏆 [项目名称](https://github.com/XiaoChennnng/project) - 项目简介（⭐ Stars）
+- 🎨 [组件库](https://github.com/XiaoChennnng/component-lib) - 高性能UI组件库（⭐ Stars）
+- 🚀 [脚手架](https://github.com/XiaoChennnng/scaffold) - 快速项目初始化工具（⭐ Stars）
+
+---
+
+## 📈 最近活动
 
 <!--
-**XiaoChennnng/XiaoChennnng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+你可以在此处添加最近的项目更新或成就
+例如：
+- 🎉 完成了xxx项目 v1.0 发布
+- 🔥 xxx开源库获得1000+ Stars
+- 📝 发布了关于"xxx"的技术文章
 -->
+
+---
+
+## 🌐 联系方式与社交链接
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/XiaoChennnng)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Blog](https://img.shields.io/badge/Blog-24292E?style=flat-square&logo=rss&logoColor=white)](https://your-blog.com)
+
+</div>
+
+---
+
+## 💡 推荐资源
+
+- 📚 [我的技术博客](https://your-blog.com) - 分享开发经验和最佳实践
+- 📖 [我的文章合集](link) - 技术深度分析
+- 🎓 [开源学习资料](link) - 为初学者准备的教程
+
+---
+
+## 📈 数据看板
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoChennnng.XiaoChennnng&left_text=Page%20Visitors&right_color=success)
+
+**感谢访问！ 👍 如果喜欢，请给个Star⭐**
+
+</div>
+
+---
+
+## 🔧 设置指南
+
+### WakaTime 集成步骤
+
+1. **注册WakaTime账户**
+   - 访问 [wakatime.com](https://wakatime.com) 注册账户
+   - 使用GitHub账户一键登录（推荐）
+
+2. **安装编辑器插件**
+   - VS Code: 搜索 "WakaTime" 插件并安装
+   - JetBrains IDEs: 在 Plugins 中搜索 "WakaTime"
+   - Vim/Neovim: 按照 [官方文档](https://wakatime.com/vim) 安装
+   - 其他编辑器: 查看 [支持列表](https://wakatime.com/downloads)
+
+3. **获取API密钥**
+   - 登录 WakaTime 网站
+   - 进入 [Settings → Account](https://wakatime.com/settings/account)
+   - 复制你的 API Key
+
+4. **配置你的GitHub项目**
+   - 新建一个GitHub Action工作流文件
+   - 使用以下模板配置自动更新
+
+5. **创建GitHub Action工作流**
+
+在你的GitHub个人主页仓库中，创建文件 `.github/workflows/wakatime-stats.yml`：
+
+```yaml
+name: WakaTime Status Update
+
+on:
+  schedule:
+    # 每天凌晨0点更新
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update WakaTime in README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+          SHOW_COMMIT: false
+```
+
+6. **添加GitHub Secrets**
+   - 进入仓库设置 → Secrets and variables → Actions
+   - 创建新的 Secret，名称为 `WAKATIME_API_KEY`
+   - 粘贴你之前复制的 WakaTime API Key
+   - 保存
+
+7. **验证设置**
+   - 提交代码到GitHub
+   - 进入 Actions 选项卡，查看工作流是否运行成功
+   - 成功后，你的README中的WakaTime统计会自动更新
+
+### 自定义选项
+
+修改 `.github/workflows/wakatime-stats.yml` 中的参数：
+
+```yaml
+WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}    # 你的API密钥
+GH_TOKEN: ${{ github.token }}                        # GitHub token（自动）
+SHOW_DAYS: 7                                         # 显示最近7天
+SHOW_LANGUAGE: true                                  # 显示编程语言
+SHOW_EDITORS: true                                   # 显示编辑器
+SHOW_PROJECTS: false                                 # 显示项目
+SHOW_COMMIT: true                                    # 显示提交信息
+```
+
+### 注意事项
+
+⚠️ **重要提示：**
+- 不要直接在YAML文件中暴露你的API Key，一定要使用GitHub Secrets
+- 第一次运行可能需要等待几分钟
+- 确保README中包含 `<!--START_SECTION:waka-->` 和 `<!--END_SECTION:waka-->` 注释
+- 如果长时间没有更新，检查 Actions 日志中是否有错误
+
+### 替换占位符
+
+在你的README中，请替换以下内容：
+- `YOUR_USERNAME` → 你的GitHub用户名
+- `YOUR_WAKATIME_USERNAME` → 你的WakaTime用户名（通常与GitHub用户名相同）
+
+---
+
+## 📚 其他相关资源
+
+- [WakaTime 官方文档](https://wakatime.com/help)
+- [WakaTime VS Code 插件](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- [waka-readme-stats 项目](https://github.com/anmol098/waka-readme-stats)
+- [GitHub Actions 文档](https://docs.github.com/en/actions)

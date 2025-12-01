@@ -10,8 +10,6 @@
 
 ---
 
-<img align="right" width="30%" src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue&perline=3" />
-
 ### 🎯 关于我
 
 我是一名学生开发者，正在不断学习和探索新的技术。
@@ -21,7 +19,13 @@
 - 💬 **乐于讨论**：技术方案、架构设计
 - ⚡ **座右铭**：知命不惧，日日自新
 
-<br clear="both"/>
+---
+
+### 🛠️ 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,nextjs,nodejs,django,fastapi,spring,postgres,mongodb,redis,git,docker,kubernetes&perline=9" />
+</p>
 
 ---
 
@@ -38,14 +42,12 @@
 
 ---
 
+### 🏆 个人成就 & ⏰ 编码时间
+
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoChennnng&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=XiaoChennnng&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
-
----
-
-### 🏆 个人成就
 
 <!--START_SECTION:achievements-->
 | 🎯 指标 | 📊 数据 | 📈 趋势 | 🎯 指标 | 📊 数据 | 📈 趋势 |
@@ -54,10 +56,6 @@
 | ⭐ 总获Stars | **0** | ⏳ | 🔀 Pull Requests | **2** | 📈 |
 | 👥 Followers | **1** | 📈 | 🐛 Issues | **0** | ✨ |
 <!--END_SECTION:achievements-->
-
----
-
-### ⏰ 编码时间
 
 <!--START_SECTION:waka-->
 ```txt

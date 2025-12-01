@@ -157,11 +157,3 @@ HTML/CSS     1h 48m   ░░░░░░░░░░░░░░░░░░░�
 
 
 
----
-
-## 📚 其他相关资源
-
-- [WakaTime 官方文档](https://wakatime.com/help)
-- [WakaTime VS Code 插件](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
-- [waka-readme-stats 项目](https://github.com/anmol098/waka-readme-stats)
-- [GitHub Actions 文档](https://docs.github.com/en/actions)

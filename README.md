@@ -8,7 +8,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XiaoChennnng.XiaoChennnng&left_color=grey&right_color=blue" alt="visitors" />
 </p>
 
----
 
 ### 🎯 ABOUT ME
 
@@ -19,7 +18,6 @@
 - 💬 **乐于讨论**：技术方案、架构设计
 - ⚡ **座右铭**：知命不惧，日日自新
 
----
 
 ### 🛠️ 正在学习的
 
@@ -27,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,nextjs,nodejs,django,fastapi,spring,postgres,mongodb,redis,git,docker,kubernetes&perline=9" />
 </p>
 
----
 
 ### 📊 GitHub 统计
 
@@ -40,7 +37,6 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
 </p>
 
----
 
 ### 🏆 个人成就 & ⏰ 编码时间
 
@@ -72,7 +68,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
----
 
 ### 📚 最新项目
 
@@ -90,7 +85,6 @@ No activity tracked
 </div>
 <!--END_SECTION:latest-repos-->
 
----
 
 ### 🌐 联系我
 
@@ -99,7 +93,6 @@ No activity tracked
   <a href="mailto:chenhaomin@lzre.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&animation=twinkling" width="100%" />

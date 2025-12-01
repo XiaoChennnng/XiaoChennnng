@@ -10,7 +10,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -39,20 +39,21 @@
 
 ---
 
-### 📊 GitHub 统计
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=XiaoChennnng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChennnng&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="100%"/>
+</td>
+</tr>
+</table>
 
 <table width="100%">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=XiaoChennnng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChennnng&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" width="100%"/>
+<td width="100%" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="100%"/>
 </td>
 </tr>
 </table>
@@ -97,6 +98,10 @@ No activity tracked
 
 ---
 
+<table width="100%">
+<tr>
+<td width="100%">
+
 ### 📚 最新项目
 
 <!--START_SECTION:latest-repos-->
@@ -109,18 +114,28 @@ No activity tracked
 | [**METRA_Finder**](https://github.com/XiaoChennnng/METRA_Finder) | 暂无描述 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐ 0 |
 <!--END_SECTION:latest-repos-->
 
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="100%" align="center">
 
 ### 🌐 联系我
 
 <a href="https://github.com/XiaoChennnng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:chenhaomin@lzre.edu.cn"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
----
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
 
 **感谢访问！如果觉得不错，请给个 ⭐ 支持一下！**
 

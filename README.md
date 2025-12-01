@@ -65,14 +65,41 @@ No activity tracked
 
 <div align="center">
 
+### 📊 贡献活动
 ![](https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true)
+
+### 📈 代码统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XiaoChennnng&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+### 🔝 语言分布
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChennnng&theme=tokyonight&hide_border=true&layout=pie)
+
+### ⭐ 成就统计
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Public%20Repos-0-blue?style=flat-square" alt="Public Repos" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat-square" alt="Total Stars" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Followers-0-green?style=flat-square" alt="Followers" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub 徽章
+![Commits Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/XiaoChennnng&query=public_repos&logo=github&label=Public%20Repos&color=success&style=flat-square)
+![Followers Badge](https://img.shields.io/github/followers/XiaoChennnng?style=flat-square&logo=github)
+
+### 📱 页面访问
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoChennnng.XiaoChennnng&left_text=Page%20Visitors&right_color=success)
 
 </div>
 
-
 <div align="center">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoChennnng.XiaoChennnng&left_text=Page%20Visitors&right_color=success)
 
 **感谢访问！ 👍 如果喜欢，请给个Star⭐**
 

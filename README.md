@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 ## 🛠️ 技术栈
 
@@ -38,7 +37,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub 数据统计
 
@@ -57,7 +55,6 @@
 
 </div>
 
----
 
 ## ⏰ 编码时间统计 (WakaTime)
 
@@ -77,7 +74,6 @@ No activity tracked
 
 </div>
 
----
 
 ## 🏆 个人成就
 
@@ -131,7 +127,6 @@ No activity tracked
 
 <!--END_SECTION:achievements-->
 
----
 
 ## 📚 最新项目
 
@@ -186,7 +181,6 @@ No activity tracked
 
 <!--END_SECTION:latest-repos-->
 
----
 
 ## 🌐 联系方式与社交链接
 
@@ -201,7 +195,6 @@ No activity tracked
 
 </div>
 
----
 
 ## 📈 数据看板
 

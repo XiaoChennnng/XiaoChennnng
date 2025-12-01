@@ -50,11 +50,18 @@
 </p>
 
 <!--START_SECTION:achievements-->
-| 🎯 指标 | 📊 数据 | 📈 趋势 | 🎯 指标 | 📊 数据 | 📈 趋势 |
-|:---|:---:|:---:|:---|:---:|:---:|
-| 📦 公开仓库 | **7** | 📈 | 📝 总提交数 | **87** | 📈 |
-| ⭐ 总获Stars | **0** | ⏳ | 🔀 Pull Requests | **2** | 📈 |
-| 👥 Followers | **1** | 📈 | 🐛 Issues | **0** | ✨ |
+<div align="center">
+
+| 🎯 成就 | 数据 |
+|--------|------|
+| 📦 公开仓库 | 7 |
+| ⭐ 总获得Stars | 0 |
+| 👥 Followers | 1 |
+| 📝 总提交数 | 111 |
+| 🔀 Pull Requests | 2 |
+| 🐛 Issues | 0 |
+
+</div>
 <!--END_SECTION:achievements-->
 
 <!--START_SECTION:waka-->
@@ -70,11 +77,17 @@ No activity tracked
 ### 📚 最新项目
 
 <!--START_SECTION:latest-repos-->
-| 项目 | 描述 | 语言 | Stars | 项目 | 描述 | 语言 | Stars |
-|:---|:---|:---:|:---:|:---|:---|:---:|:---:|
-| [**XiaoChennnng**](https://github.com/XiaoChennnng/XiaoChennnng) | 个人主页 | `Python` | ⭐0 | [**PeerBoard**](https://github.com/XiaoChennnng/PeerBoard) | 暂无描述 | `JS` | ⭐0 |
-| [**Deadliner-Client**](https://github.com/XiaoChennnng/Deadliner-Client) | Deadline管理 | `TS` | ⭐0 | [**SkyDream_ATC**](https://github.com/XiaoChennnng/SkyDream_ATC_Apply_System) | 暂无描述 | `TS` | ⭐0 |
-| [**METRA_Finder**](https://github.com/XiaoChennnng/METRA_Finder) | 暂无描述 | `Python` | ⭐0 | | | | |
+<div align="center">
+
+| 项目名称 | 描述 | 语言 | Stars |
+|--------|------|------|-------|
+| [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
+| [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序。... | Python | ⭐ 0 |
+| [SkyDream_ATC_Apply_System](https://github.com/XiaoChennnng/SkyDream_ATC_Apply_System) | 一个管制员管理考核系统... | TypeScript | ⭐ 0 |
+| [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用。... | JavaScript | ⭐ 0 |
+| [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | 一个简洁高效Deadline管理记录软件... | TypeScript | ⭐ 0 |
+
+</div>
 <!--END_SECTION:latest-repos-->
 
 ---

@@ -28,10 +28,6 @@
 
 ### 📊 GitHub 统计
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XiaoChennnng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoChennnng&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoChennnng&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
@@ -41,9 +37,9 @@
 ### 🏆 个人成就 & ⏰ 编码时间
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoChennnng&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=XiaoChennnng&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoChennnng&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </p>
+
 
 <!--START_SECTION:achievements-->
 <div align="center">

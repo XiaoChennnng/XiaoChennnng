@@ -10,7 +10,7 @@
 
 ---
 
-### 🎯 关于我
+### 🎯 ABOUT ME
 
 我是一名学生开发者，正在不断学习和探索新的技术。
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ 正在学习的
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,vue,nextjs,nodejs,django,fastapi,spring,postgres,mongodb,redis,git,docker,kubernetes&perline=9" />

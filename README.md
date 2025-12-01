@@ -50,6 +50,41 @@ No activity tracked
 </div>
 
 
+## 🏆 个人成就
+
+<!--START_SECTION:achievements-->
+
+<div align="center">
+
+| 🎯 成就 | 数据 |
+|--------|------|
+| 📦 公开仓库 | 0 |
+| ⭐ 总获得Stars | 0 |
+| 👥 Followers | 0 |
+| 📝 总提交数 | 0 |
+| 🔀 Pull Requests | 0 |
+| 🐛 Issues | 0 |
+
+</div>
+
+<!--END_SECTION:achievements-->
+
+
+## 📚 最新项目
+
+<!--START_SECTION:latest-repos-->
+
+<div align="center">
+
+| 项目名称 | 描述 | 语言 | Stars |
+|--------|------|------|-------|
+| 暂无项目 | 开始创建你的第一个项目吧 | - | 0 |
+
+</div>
+
+<!--END_SECTION:latest-repos-->
+
+
 ## 🌐 联系方式与社交链接
 
 <div align="center">

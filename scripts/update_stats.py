@@ -6,6 +6,7 @@ GitHub README 自动更新脚本
 
 import os
 import re
+import subprocess
 from github import Github
 from datetime import datetime
 
@@ -165,6 +166,40 @@ def update_readme():
             f.write(content)
 
         print("✅ README.md 更新成功!")
+
+        # 自动提交和推送到GitHub
+        try:
+            print("⏳ 正在提交到GitHub...")
+
+            # 配置git（确保提交信息正确）
+            subprocess.run(['git', 'config', 'user.email', os.getenv('GIT_EMAIL', 'action@github.com')], check=False)
+            subprocess.run(['git', 'config', 'user.name', os.getenv('GIT_USER', 'GitHub Action')], check=False)
+
+            # 添加文件到暂存区
+            subprocess.run(['git', 'add', readme_path], check=True)
+
+            # 检查是否有更改需要提交
+            result = subprocess.run(['git', 'diff', '--cached', '--quiet'], capture_output=True)
+            if result.returncode != 0:  # 有改动
+                # 提交
+                subprocess.run([
+                    'git', 'commit', '-m',
+                    'chore: 自动更新GitHub成就和最新项目统计'
+                ], check=True)
+
+                # 推送到远程
+                subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+                print("✅ 已推送到GitHub!")
+            else:
+                print("ℹ️ 没有内容变化，无需提交")
+
+        except subprocess.CalledProcessError as e:
+            print(f"⚠️ Git操作失败: {e}")
+            print("💡 请手动执行: git add README.md && git commit -m 'chore: 更新统计' && git push")
+        except Exception as e:
+            print(f"⚠️ 提交失败: {e}")
+            print("💡 请手动推送更改到GitHub")
+
         return True
 
     except Exception as e:

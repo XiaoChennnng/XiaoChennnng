@@ -32,9 +32,27 @@ def get_github_data():
 
     for repo in repos:
         total_stars += repo.stargazers_count
-        total_commits += repo.get_commits().totalCount if repo.get_commits().totalCount else 0
-        total_prs += repo.get_pulls(state='closed').totalCount + repo.get_pulls(state='open').totalCount
-        total_issues += repo.get_issues(state='closed').totalCount + repo.get_issues(state='open').totalCount
+
+        # 修复：统计**该用户在该仓库的提交数**，而不是整个仓库的提交数
+        try:
+            user_commits = repo.get_commits(author=USERNAME).totalCount
+            total_commits += user_commits if user_commits else 0
+        except Exception as e:
+            print(f"⚠️ 获取 {repo.name} 的用户提交数失败: {e}")
+            total_commits += 0
+
+        # 修复：统计该用户创建的PR和Issue
+        try:
+            user_prs = repo.get_pulls(state='closed', creator=USERNAME).totalCount + repo.get_pulls(state='open', creator=USERNAME).totalCount
+            total_prs += user_prs if user_prs else 0
+        except Exception:
+            pass
+
+        try:
+            user_issues = repo.get_issues(state='closed', creator=USERNAME).totalCount + repo.get_issues(state='open', creator=USERNAME).totalCount
+            total_issues += user_issues if user_issues else 0
+        except Exception:
+            pass
 
     return {
         'public_repos': public_repos,

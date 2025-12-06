@@ -47,9 +47,9 @@
 | 🎯 成就 | 数据 |
 |--------|------|
 | 📦 公开仓库 | 7 |
-| ⭐ 总获得Stars | 0 |
+| ⭐ 总获得Stars | 1 |
 | 👥 Followers | 1 |
-| 📝 总提交数 | 113 |
+| 📝 总提交数 | 225 |
 | 🔀 Pull Requests | 2 |
 | 🐛 Issues | 0 |
 
@@ -59,7 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     1 hr 38 mins    ████████▓░░░░░░░░░░░░░░░░   34.86 %
+TeX          1 hr 30 mins    ████████░░░░░░░░░░░░░░░░░   31.86 %
+TypeScript   49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Python       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JSON         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
@@ -73,9 +77,9 @@ No activity tracked
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
-| [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序。... | Python | ⭐ 0 |
+| [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用... | JavaScript | ⭐ 1 |
+| [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序... | Python | ⭐ 0 |
 | [SkyDream_ATC_Apply_System](https://github.com/XiaoChennnng/SkyDream_ATC_Apply_System) | 一个管制员管理考核系统... | TypeScript | ⭐ 0 |
-| [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用。... | JavaScript | ⭐ 0 |
 | [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | 一个简洁高效Deadline管理记录软件... | TypeScript | ⭐ 0 |
 
 </div>

@@ -46,10 +46,10 @@
 
 | 🎯 成就 | 数据 |
 |--------|------|
-| 📦 公开仓库 | 7 |
+| 📦 公开仓库 | 8 |
 | ⭐ 总获得Stars | 1 |
 | 👥 Followers | 1 |
-| 📝 总提交数 | 81 |
+| 📝 总提交数 | 83 |
 | 🔀 Pull Requests | 0 |
 | 🐛 Issues | 0 |
 
@@ -76,11 +76,11 @@ Text         9 mins          ▒░░░░░░░░░░░░░░░░
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
+| [DeepResearchPro](https://github.com/XiaoChennnng/DeepResearchPro) | 暂无描述... | Python | ⭐ 0 |
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
 | [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用... | JavaScript | ⭐ 1 |
 | [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序... | Python | ⭐ 0 |
 | [SkyDream_ATC_Apply_System](https://github.com/XiaoChennnng/SkyDream_ATC_Apply_System) | 一个管制员管理考核系统... | TypeScript | ⭐ 0 |
-| [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | 一个简洁高效Deadline管理记录软件... | TypeScript | ⭐ 0 |
 
 </div>
 <!--END_SECTION:latest-repos-->

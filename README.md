@@ -49,7 +49,7 @@
 | 📦 公开仓库 | 8 |
 | ⭐ 总获得Stars | 2 |
 | 👥 Followers | 1 |
-| 📝 总提交数 | 98 |
+| 📝 总提交数 | 100 |
 | 🔀 Pull Requests | 0 |
 | 🐛 Issues | 0 |
 
@@ -76,8 +76,8 @@ Other        1 hr 15 mins    █▓░░░░░░░░░░░░░░░
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
-| [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
 | [DeepResearchPro](https://github.com/XiaoChennnng/DeepResearchPro) | 一个具备多智能体的简易研究平台... | Python | ⭐ 1 |
+| [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
 | [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用... | JavaScript | ⭐ 1 |
 | [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序... | Python | ⭐ 0 |
 | [SkyDream_ATC_Apply_System](https://github.com/XiaoChennnng/SkyDream_ATC_Apply_System) | 一个管制员管理考核系统... | TypeScript | ⭐ 0 |

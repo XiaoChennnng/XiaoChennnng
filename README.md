@@ -76,8 +76,8 @@ TeX          29 mins         █░░░░░░░░░░░░░░░░
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
-| [ControlVista](https://github.com/XiaoChennnng/ControlVista) | 一个能控制设备的AI物联网平台... | TypeScript | ⭐ 0 |
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
+| [ControlVista](https://github.com/XiaoChennnng/ControlVista) | 一个能控制设备的AI物联网平台... | TypeScript | ⭐ 0 |
 | [DeepResearchPro](https://github.com/XiaoChennnng/DeepResearchPro) | 一个具备多智能体的简易研究平台... | Python | ⭐ 1 |
 | [PeerBoard](https://github.com/XiaoChennnng/PeerBoard) | 一个无需后端、支持离线与局域网协作的白板应用... | JavaScript | ⭐ 1 |
 | [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序... | Python | ⭐ 0 |

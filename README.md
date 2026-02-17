@@ -49,7 +49,7 @@
 | 📦 公开仓库 | 10 |
 | ⭐ 总获得Stars | 3 |
 | 👥 Followers | 1 |
-| 📝 总提交数 | 148 |
+| 📝 总提交数 | 101 |
 | 🔀 Pull Requests | 0 |
 | 🐛 Issues | 0 |
 

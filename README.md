@@ -47,7 +47,7 @@
 | 🎯 成就 | 数据 |
 |--------|------|
 | 📦 公开仓库 | 10 |
-| ⭐ 总获得Stars | 4 |
+| ⭐ 总获得Stars | 5 |
 | 👥 Followers | 1 |
 | 📝 总提交数 | 148 |
 | 🔀 Pull Requests | 0 |
@@ -76,8 +76,8 @@ Python       15 mins               ▓░░░░░░░░░░░░░░
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
+| [SoftCopyRightDocGen](https://github.com/XiaoChennnng/SoftCopyRightDocGen) | 一个能快速整理符合软著要求的源代码整理软件... | Python | ⭐ 3 |
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
-| [SoftCopyRightDocGen](https://github.com/XiaoChennnng/SoftCopyRightDocGen) | 一个能快速整理符合软著要求的源代码整理软件... | Python | ⭐ 2 |
 | [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | 一个简洁高效Deadline管理记录软件... | TypeScript | ⭐ 0 |
 | [DeepResearchPro](https://github.com/XiaoChennnng/DeepResearchPro) | 一个具备多智能体的简易研究平台... | Python | ⭐ 1 |
 | [ControlVista](https://github.com/XiaoChennnng/ControlVista) | 一个能控制设备的AI物联网平台... | TypeScript | ⭐ 0 |

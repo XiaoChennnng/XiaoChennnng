@@ -47,7 +47,7 @@
 | 🎯 成就 | 数据 |
 |--------|------|
 | 📦 公开仓库 | 10 |
-| ⭐ 总获得Stars | 5 |
+| ⭐ 总获得Stars | 6 |
 | 👥 Followers | 1 |
 | 📝 总提交数 | 142 |
 | 🔀 Pull Requests | 0 |
@@ -76,8 +76,8 @@ TypeScript   23 mins               ▓░░░░░░░░░░░░░░
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
+| [Anvil_CLI](https://github.com/XiaoChennnng/Anvil_CLI) | 一个具备Agent能力的CLI工具... | JavaScript | ⭐ 1 |
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
-| [Anvil_CLI](https://github.com/XiaoChennnng/Anvil_CLI) | 一个具备Agent能力的CLI工具... | JavaScript | ⭐ 0 |
 | [SoftCopyRightDocGen](https://github.com/XiaoChennnng/SoftCopyRightDocGen) | 一个能快速整理符合软著要求的源代码整理软件... | Python | ⭐ 2 |
 | [METRA_Finder](https://github.com/XiaoChennnng/METRA_Finder) | 一个快速查询和解析METAR报文的程序... | Python | ⭐ 1 |
 | [DeepResearchPro](https://github.com/XiaoChennnng/DeepResearchPro) | 一个具备多智能体的简易研究平台... | Python | ⭐ 1 |

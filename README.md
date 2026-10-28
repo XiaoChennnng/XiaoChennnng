@@ -76,8 +76,8 @@ Other         1 hr 15 mins          █▒░░░░░░░░░░░░�
 
 | 项目名称 | 描述 | 语言 | Stars |
 |--------|------|------|-------|
-| [SA](https://github.com/XiaoChennnng/SA) | 一个面向科研的Agent助手... | TypeScript | ⭐ 0 |
 | [XiaoChennnng](https://github.com/XiaoChennnng/XiaoChennnng) | 暂无描述... | Python | ⭐ 0 |
+| [SA](https://github.com/XiaoChennnng/SA) | 一个面向科研的Agent助手... | TypeScript | ⭐ 0 |
 | [ModbusAgent](https://github.com/XiaoChennnng/ModbusAgent) | 一个由Agent驱动的Modbus设备扫描与控制工具... | Python | ⭐ 0 |
 | [Anvil_CLI](https://github.com/XiaoChennnng/Anvil_CLI) | 一个具备Agent能力的CLI工具... | JavaScript | ⭐ 4 |
 | [SoftCopyRightDocGen](https://github.com/XiaoChennnng/SoftCopyRightDocGen) | 一个能快速整理符合软著要求的源代码整理软件... | Python | ⭐ 3 |
